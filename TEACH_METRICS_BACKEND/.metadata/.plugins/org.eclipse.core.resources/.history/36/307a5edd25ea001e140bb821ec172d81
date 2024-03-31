@@ -1,0 +1,21 @@
+package com.adtFinalProject.teachMetrics.model;
+
+public class ResponsesModel {
+	private int id;
+	private String option;
+	private int accId;
+	private String emailId;
+	
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
+	public String getOption() {
+		return option;
+	}
+	public void setOption(String option) {
+		this.option = option;
+	}
+}

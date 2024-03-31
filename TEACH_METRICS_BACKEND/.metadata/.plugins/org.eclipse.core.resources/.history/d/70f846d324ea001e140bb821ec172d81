@@ -1,0 +1,6 @@
+package com.adtFinalProject.teachMetrics.model;
+
+public class ResponsesModel {
+	private int id;
+	private String option;
+}

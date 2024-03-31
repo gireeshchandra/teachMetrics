@@ -1,0 +1,7 @@
+package com.adtFinalProject.teachMetrics.model;
+
+public class ResultsModel {
+	private int _id;
+	private int accId;
+	private int score;
+}
